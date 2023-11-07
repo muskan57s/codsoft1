@@ -594,13 +594,6 @@ font-family: 'Montserrat', sans-serif;
 #you3:hover{
     background:#0f07ea;
 }
-  .last{
-    height:100vh;
-    width:auto;
-    /* position:absolute; */
-    top:200%;
-    width:auto;
-  }
 
 .bar{
     margin-top:50px;
